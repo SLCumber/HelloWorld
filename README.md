@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] A close button 
 
 ## Video Walkthrough
 
@@ -33,7 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not have issues with the making of the app. The walkthrough made the experience simple.
+I did have trouble updating the app with unique ideas (like a close button). 
 
 ## License
 
